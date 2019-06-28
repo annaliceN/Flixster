@@ -72,14 +72,14 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
         }
 
         // get the correct placeholder and imageview for the current orientation
-        int placeholderId = isPortrait ? R.drawable.flicks_backdrop_placeholder : R.drawable.flicks_backdrop_placeholder;
+        int placeholderId = isPortrait ? R.drawable.flicks_movie_placeholder : R.drawable.flicks_backdrop_placeholder;
         ImageView imageView = isPortrait ? holder.ivPosterImage : holder.ivBackdropImage;
 
         // load image using glide
         Glide.with(context)
                 .load(imageUrl)
                 .bitmapTransform(new RoundedCornersTransformation(context, 25, 0))
-                .placeholder(R.drawable.flicks_movie_placeholder)
+                .placeholder(placeholderId)
                 .error(placeholderId)
                 .into(imageView);
     }
