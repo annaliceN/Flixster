@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import cz.msebera.android.httpclient.Header;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MovieListActivity extends AppCompatActivity {
 
     // constants
     // base URL for the API
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_movie_list);
         // initialize the client
         client = new AsyncHttpClient();
         // initialize the list of movies
