@@ -12,18 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fddaf946-6f46-4c71-8bd3-5336917e650b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_movie_details.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieDetailsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_movie_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_movie_details.xml" afterDir="false" />
     </list>
     <ignored path="secrets.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+            <state relative-caret-position="342">
+              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3150#3151#0" expanded="true" />
@@ -80,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_movie_details.xml">
           <provider editor-type-id="text-editor" />
           <provider selected="true" editor-type-id="android-designer2" />
@@ -138,9 +128,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
+    <option name="x" value="818" />
     <option name="y" value="23" />
-    <option name="width" value="1160" />
+    <option name="width" value="862" />
     <option name="height" value="946" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -216,7 +206,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="device.picker.selection" value="94QX1ZNKY" />
+    <property name="device.picker.selection" value="Pixel_3_API_28" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -331,10 +321,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="23" width="1598" height="946" extended-state="0" />
+    <frame x="818" y="23" width="862" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5008726" side_tool="true" weight="0.19216646" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4991274" visible="true" weight="0.17994858" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4991274" visible="true" weight="0.34146342" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -347,7 +338,7 @@
       <window_info anchor="bottom" id="Run" order="0" weight="0.3290398" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.26112413" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3290398" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5004916" side_tool="true" weight="0.3290398" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49950835" weight="0.3290398" />
@@ -514,18 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3150#3151#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_movie_details.xml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
@@ -533,6 +512,18 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/activity_movie_details.xml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/flixster/MovieAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3150#3151#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
