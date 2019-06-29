@@ -29,7 +29,8 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Walkthrough](FlixsterVerticalDemo.gif)
+![Walkthrough](FlixsterHorizontalDemo.gif)
 
 ## Notes
 
